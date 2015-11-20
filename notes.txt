@@ -1,1 +1,2 @@
 test file for practicing git workflow
+track history in git using git log ...word up
